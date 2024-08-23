@@ -1,7 +1,6 @@
 ## Hi there, I am Abhijet Chakrabartty!👋   
-![ZweiStudHoersaal_E08_RS](https://github.com/user-attachments/assets/505045a1-c52e-4316-8f21-dd9504b5f95d)
-
-  About me:
+![ZweiStudHoersaal_E08_RS](https://github.com/user-attachments/assets/0989a6c0-81be-40bf-8c15-6b341ef3eebb)
+ About me:
 - 🔭 I’m currently working on ...my portfolio to dive into the IT world. 
 - 🌱 I’m currently learning ...Javascript.
 - 👯 I’m looking to collaborate on ...new beginner-friendly projects.
