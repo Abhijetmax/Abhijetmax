@@ -4,7 +4,7 @@
 - 🔭 I’m working on my portfolio to dive into IT. 
 - 🌱 I’m currently learning Javascript.
 - 👯 I’m looking to collaborate on new beginner-friendly projects. o.O
-- 🤔 I’m looking for help with new project idea generation. 
+- 🤔 I’m looking for help with new project idea generation. :D
 - 💬 Ask me about Anything related to coding!
 - 📫 How to reach me: You know my full name. So ping me on LinkedIn, perhaps. 
 - 😄 Pronouns: He/Him.
