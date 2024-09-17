@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with new project idea generation. :D
 - 💬 Ask me about Anything related to coding! 🥑
 - 📫 How to reach me: You know my full name. So ping me on LinkedIn, perhaps. 
-- 😄 Pronouns: He/Him.
+- 😄 Pronouns: He/Him. 🧃
 - ⚡ Fun fact: I slap hard with my left hand when I am dead angry, trust me! 🎱
 
 
